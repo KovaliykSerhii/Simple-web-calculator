@@ -1,2 +1,2 @@
 # Simple-web-calculator
- A simple web calculator wit using html, css, javascript
+ A simple web calculator with using html, css, javascript
